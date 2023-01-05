@@ -1,0 +1,25 @@
+{
+    "name": "agi-bin",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ari-client": "^2.2.0",
+        "axios": "^0.21.1",
+        "ding-dong": "^0.1.7",
+        "fetch": "^1.1.0",
+        "lodash": "^4.17.21",
+        "mysql": "^2.18.1",
+        "socket.io": "^4.2.0",
+        "wav": "^1.0.2",
+        "wavefile": "^11.0.0",
+        "winston": "^3.7.2",
+        "winston-daily-rotate-file": "^4.7.1",
+        "ws": "^8.2.1"
+    }
+}
